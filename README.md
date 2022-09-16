@@ -22,5 +22,5 @@
   <a href = "https://trello.com/u/helenlazarotti/activity"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
 </div>
   
-  
+   ![Snake animation](https://github.com/helenlazarotti/helenlazarotti/blob/output/github-contribution-grid-snake.svg)
  
